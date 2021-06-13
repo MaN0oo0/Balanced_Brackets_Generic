@@ -1,0 +1,7 @@
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\bin\Debug\Simple_Stack_By_Me.exe.config
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\bin\Debug\Simple_Stack_By_Me.exe
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\bin\Debug\Simple_Stack_By_Me.pdb
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\obj\Debug\Simple_Stack_By_Me.csprojAssemblyReference.cache
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\obj\Debug\Simple_Stack_By_Me.csproj.CoreCompileInputs.cache
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\obj\Debug\Simple_Stack_By_Me.exe
+c:\users\mohamed\source\repos\Simple_Stack_By_Me\Simple_Stack_By_Me\obj\Debug\Simple_Stack_By_Me.pdb
